@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 212.156.214.140
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1642261544477
+  login: 1642261245865
+money: '0'
+last-account-name: Nexzalas
+lastlocation:
+  world: 4eeaac32-607f-451e-9ef5-b0eb884a9fe6
+  world-name: world
+  x: 168.5489498157581
+  y: 56.0
+  z: -389.5152310004643
+  yaw: -36.35186004638672
+  pitch: -90.0
+logoutlocation:
+  world: 4eeaac32-607f-451e-9ef5-b0eb884a9fe6
+  world-name: world
+  x: 293.6864787324678
+  y: 78.0
+  z: -415.8551707533746
+  yaw: 69.33261108398438
+  pitch: 5.211959362030029

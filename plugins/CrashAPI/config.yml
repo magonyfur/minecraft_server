@@ -1,0 +1,4 @@
+use_comments: true
+get_latest_version: true
+language: 'en_us'
+language_file: 'language.yml'

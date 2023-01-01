@@ -1,0 +1,112 @@
+PlayerMapStore:
+  mapList:
+  - name: Map
+    mapID: 0
+    id: Map
+    type: SINGLE
+  - columns: 12
+    name: Map
+    id: Map-1
+    type: POSTER
+    rows: 6
+    mapsIDs:
+    - 1
+    - 2
+    - 3
+    - 4
+    - 5
+    - 6
+    - 7
+    - 8
+    - 9
+    - 10
+    - 11
+    - 12
+    - 13
+    - 14
+    - 15
+    - 16
+    - 17
+    - 18
+    - 19
+    - 20
+    - 21
+    - 22
+    - 23
+    - 24
+    - 25
+    - 26
+    - 27
+    - 28
+    - 29
+    - 30
+    - 31
+    - 32
+    - 33
+    - 34
+    - 35
+    - 36
+    - 37
+    - 38
+    - 39
+    - 40
+    - 41
+    - 42
+    - 43
+    - 44
+    - 45
+    - 46
+    - 47
+    - 48
+    - 49
+    - 50
+    - 51
+    - 52
+    - 53
+    - 54
+    - 55
+    - 56
+    - 57
+    - 58
+    - 59
+    - 60
+    - 61
+    - 62
+    - 63
+    - 64
+    - 65
+    - 66
+    - 67
+    - 68
+    - 69
+    - 70
+    - 71
+    - 72
+  - name: Map
+    mapID: 73
+    id: Map-2
+    type: SINGLE
+  - name: Map
+    mapID: 86
+    id: Map-3
+    type: SINGLE
+  - name: Map
+    mapID: 87
+    id: Map-4
+    type: SINGLE
+  - name: Map
+    mapID: 88
+    id: Map-5
+    type: SINGLE
+  - name: Map
+    mapID: 89
+    id: Map-6
+    type: SINGLE
+  - name: Map
+    mapID: 90
+    id: Map-7
+    type: SINGLE
+  - name: Map
+    mapID: 119
+    id: Map-8
+    type: SINGLE

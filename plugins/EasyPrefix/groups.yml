@@ -1,0 +1,66 @@
+# ###########################################################
+# +------------------------------------------------------+ #
+# |                     - Groups -                       | #
+# |                Plugin by Christian34	  	     	      | #
+# +------------------------------------------------------+ #
+# ###########################################################
+
+groups:
+  Admin:
+    prefix: '%oraxen_admin_tag%'
+    suffix: '&f:'
+    chat-color: '&7'
+  Developer:
+    prefix: '&3Dev &7| &4'
+    suffix: '&f:'
+    chat-color: '&7'
+  Moderator:
+    prefix: '&c&lMod &7| &c'
+    suffix: '&f:'
+    chat-color: '&7'
+  Supporter:
+    prefix: '&9Sup &7| &9'
+    suffix: '&f:'
+    chat-color: '&7'
+  Builder:
+    prefix: '%oraxen_builder_tag%'
+    suffix: '&f:'
+    chat-color: '&7'
+    join-msg: '&8» &aMaster Builder %player% &7joined the game'
+    quit-msg: '&8« %ep_user_prefix%%player% &7left the game'
+  Vip:
+    prefix: '%ep_tag_prefix% &7| &e'
+    suffix: '&f:'
+    chat-formatting: '%r'
+  Premium:
+    prefix: '&6Premium &7| &6'
+    suffix: '&f:'
+    chat-color: '&7'
+  # default group: used as fallback, if no permission was set
+  # DO NOT REMOVE THIS SECTION!
+  default:
+    prefix: '&7'
+    suffix: '&f:'
+    chat-color: '&7'
+    join-msg: '&8» %ep_user_prefix%%player% &8joined the game'
+    quit-msg: '&8« %ep_user_prefix%%player% &8left the game'
+  Owner:
+    prefix: '%oraxen_owner_tag%'
+    suffix: '&f:'
+    chat-color: '&7'
+    chat-formatting: '&o'
+subgroups:
+  Vip:
+    # fallback if user hasn't chosen a gender yet
+    # %ep_tag_prefix%
+    prefix: '&6VIP'
+    # %ep_tag_suffix%
+    suffix: ''
+    # specific prefixes and/or suffixes for each gender
+    genders:
+      female:
+        prefix: '&5VIP'
+      male:
+        prefix: '&9VIP'
+      intersex:
+        prefix: '&eVIP'

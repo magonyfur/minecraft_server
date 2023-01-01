@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1642262057486
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1643402836196
+  login: 1643402651921
+money: '0'
+logoutlocation:
+  world: 3c8f486a-df46-4044-95a6-2718f60da732
+  world-name: Buildings
+  x: 220.21495185385427
+  y: -60.0
+  z: -354.33440727934516
+  yaw: -158.89752197265625
+  pitch: 56.9999885559082
+last-account-name: Pink_Floof_Desi
+lastlocation:
+  world: 4eeaac32-607f-451e-9ef5-b0eb884a9fe6
+  world-name: world
+  x: 343.3856183807438
+  y: 76.0
+  z: -421.23973008037945
+  yaw: -44.98455810546875
+  pitch: 30.07529067993164

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 82.174.254.57
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1641331411993
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1641739314377
+  login: 1641739298315
+money: '0'
+last-account-name: Destiny_fur
+logoutlocation:
+  world: 3c8f486a-df46-4044-95a6-2718f60da732
+  world-name: Buildings
+  x: 142.51726487129645
+  y: -55.598620930151874
+  z: -325.6854033010554
+  yaw: -44.30708312988281
+  pitch: 3.449955940246582
+lastlocation:
+  world: 3c8f486a-df46-4044-95a6-2718f60da732
+  world-name: Buildings
+  x: 363.16171860848743
+  y: -42.876604356174674
+  z: -181.228211058849
+  yaw: 73.50018310546875
+  pitch: 11.849956512451172

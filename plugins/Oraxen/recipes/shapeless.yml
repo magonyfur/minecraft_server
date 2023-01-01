@@ -1,0 +1,57 @@
+water:
+  result:
+    minecraft_item:
+      ==: org.bukkit.inventory.ItemStack
+      v: 2865
+      type: WATER_BUCKET
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: '{"extra":[{"text":"water"}],"text":""}'
+        custom-model-data: 1
+        PublicBukkitValues:
+          oraxen:id: water
+          oraxen:if-uuid: '[B;90B,-60B,97B,-40B,-72B,-14B,71B,90B,-73B,89B,-12B,-116B,-49B,-2B,27B,-114B]'
+  ingredients:
+    A:
+      amount: 1
+      minecraft_type: WATER_BUCKET
+lava:
+  result:
+    minecraft_item:
+      ==: org.bukkit.inventory.ItemStack
+      v: 2865
+      type: LAVA_BUCKET
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: '{"extra":[{"text":"lava"}],"text":""}'
+        custom-model-data: 1
+        PublicBukkitValues:
+          oraxen:id: lava
+          oraxen:if-uuid: '[B;-15B,3B,-91B,-1B,-70B,-102B,64B,82B,-126B,16B,-67B,-40B,-94B,39B,83B,62B]'
+  ingredients:
+    A:
+      amount: 1
+      minecraft_type: LAVA_BUCKET
+wool_to_string:
+  result:
+    minecraft_type: STRING
+  ingredients:
+    A:
+      amount: 1
+      minecraft_type: WHITE_WOOL
+wool_to_string2:
+  result:
+    minecraft_type: STRING
+  ingredients:
+    A:
+      amount: 1
+      minecraft_type: BLACK_WOOL
+wool_to_string3:
+  result:
+    minecraft_type: STRING
+  ingredients:
+    A:
+      amount: 1
+      minecraft_type: LIGHT_GRAY_WOOL

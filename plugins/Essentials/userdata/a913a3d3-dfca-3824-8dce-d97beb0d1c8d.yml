@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 82.174.254.57
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1641828621014
+  login: 1641828578875
+money: '0'
+last-account-name: UwU
+logoutlocation:
+  world: 4eeaac32-607f-451e-9ef5-b0eb884a9fe6
+  world-name: world
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  yaw: 7.949995517730713
+  pitch: 0.0

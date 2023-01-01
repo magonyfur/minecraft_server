@@ -1,0 +1,129 @@
+water:
+  displayname: "water"
+  material: WATER_BUCKET
+  injectID: true
+  Pack:
+    generate_model: true
+    parent_model: "item/handheld"
+    textures:
+      - water.png
+
+lava:
+  displayname: "lava"
+  material: LAVA_BUCKET
+  injectID: true
+  Pack:
+    generate_model: true
+    parent_model: "item/handheld"
+    textures:
+      - lava.png
+
+diamond_scepter:
+  displayname: "diamond scepter"
+  material: DIAMOND_SWORD
+  injectID: true
+  Pack:
+    generate_model: true
+    parent_model: "item/handheld"
+    textures:
+      - diamond_scepter.png
+
+pitch_fork:
+  displayname: "pitch fork"
+  material: TRIDENT
+  injectID: true
+  Pack:
+    generate_model: true
+    parent_model: "item/handheld"
+    textures:
+      - pitch_fork.png
+      
+villager:
+  displayname: "villager"
+  material: BROWN_DYE
+  injectID: true
+  Pack:
+    generate_model: true
+    parent_model: "item/handheld"
+    textures:
+      - villager.png
+
+witch:
+  displayname: "witch"
+  material: BLACK_DYE
+  injectID: true
+  Pack:
+    generate_model: true
+    parent_model: "item/handheld"
+    textures:
+      - witch.png
+
+zombie_villager:
+  displayname: "zombie villager"
+  material: RED_DYE
+  injectID: true
+  Pack:
+    generate_model: true
+    parent_model: "item/handheld"
+    textures:
+      - zombie_villager.png
+
+horse:
+  displayname: "horse"
+  material: GREEN_DYE
+  injectID: true
+  Pack:
+    generate_model: true
+    parent_model: "item/handheld"
+    textures:
+      - horse.png
+
+stirrup:
+  displayname: "stirrup"
+  material: TRIPWIRE_HOOK
+  injectID: true
+  Pack:
+    generate_model: true
+    parent_model: "item/generated"
+    textures:
+      - stirrup.png
+
+leather_set:
+  displayname: "leather armor set"
+  material: NETHERITE_BOOTS
+  injectID: true
+  Pack:
+    generate_model: true
+    parent_model: "item/handheld"
+    textures:
+      - leather_set.png
+
+iron_set:
+  displayname: "iron armor set"
+  material: NETHERITE_LEGGINGS
+  injectID: true
+  Pack:
+    generate_model: true
+    parent_model: "item/handheld"
+    textures:
+      - iron_set.png
+
+gold_set:
+  displayname: "gold armor set"
+  material: NETHERITE_CHESTPLATE
+  injectID: true
+  Pack:
+    generate_model: true
+    parent_model: "item/handheld"
+    textures:
+      - gold_set.png
+      
+diamond_set:
+  displayname: "diamond armor set"
+  material: NETHERITE_HELMET
+  injectID: true
+  Pack:
+    generate_model: true
+    parent_model: "item/handheld"
+    textures:
+      - diamond_set.png

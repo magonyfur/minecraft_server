@@ -1,0 +1,32 @@
+[
+  {
+    "uuid": "b2455dfc-d065-4762-998e-cd8e437b9681",
+    "name": "Pink_Floof_Desi",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "71484221-56be-45a5-a97f-03c4176155f0",
+    "name": "Destiny_fur",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "12304115-5929-348e-b020-7016bbada3f0",
+    "name": "Destiny_fur",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "5c3a1ad0-fc16-30ca-bd61-a8f6ee6e0b9d",
+    "name": "DawnOfDeath",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "fce5f909-0d39-476d-b6cf-4cb99dd889e3",
+    "name": "DawnOfDeath",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

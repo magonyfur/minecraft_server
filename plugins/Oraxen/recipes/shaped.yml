@@ -1,0 +1,170 @@
+stirrup:
+  result:
+    minecraft_item:
+      ==: org.bukkit.inventory.ItemStack
+      v: 2865
+      type: TRIPWIRE_HOOK
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: '{"extra":[{"text":"stirrup"}],"text":""}'
+        custom-model-data: 1
+        PublicBukkitValues:
+          oraxen:if-uuid: '[B;-103B,-10B,-59B,-86B,-71B,40B,77B,63B,-110B,87B,-49B,-108B,26B,116B,108B,-54B]'
+  ingredients:
+    A:
+      minecraft_type: STRING
+    B:
+      minecraft_type: IRON_INGOT
+  shape:
+  - ___
+  - _A_
+  - _B_
+saddle:
+  result:
+    minecraft_type: SADDLE
+  ingredients:
+    B:
+      minecraft_item:
+        ==: org.bukkit.inventory.ItemStack
+        v: 2865
+        type: TRIPWIRE_HOOK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"text":"stirrup"}],"text":""}'
+          custom-model-data: 1
+          PublicBukkitValues:
+            oraxen:if-uuid: '[B;-103B,-10B,-59B,-86B,-71B,40B,77B,63B,-110B,87B,-49B,-108B,26B,116B,108B,-54B]'
+    A:
+      minecraft_type: LEATHER
+  shape:
+  - ___
+  - AAA
+  - B_B
+leather_set:
+  result:
+    minecraft_item:
+      ==: org.bukkit.inventory.ItemStack
+      v: 2865
+      type: NETHERITE_BOOTS
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: '{"extra":[{"text":"leather armor set"}],"text":""}'
+        custom-model-data: 1
+        PublicBukkitValues:
+          oraxen:if-uuid: '[B;-21B,39B,-63B,30B,-103B,106B,73B,91B,-85B,-110B,-62B,-2B,-29B,-3B,4B,-93B]'
+  ingredients:
+    B:
+      minecraft_type: LEATHER_HELMET
+    C:
+      minecraft_type: LEATHER_BOOTS
+    D:
+      minecraft_type: LEATHER_LEGGINGS
+    A:
+      minecraft_type: LEATHER_CHESTPLATE
+  shape:
+  - ___
+  - AB_
+  - CD_
+iron_set:
+  result:
+    minecraft_item:
+      ==: org.bukkit.inventory.ItemStack
+      v: 2865
+      type: NETHERITE_LEGGINGS
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: '{"extra":[{"text":"iron armor set"}],"text":""}'
+        custom-model-data: 1
+        PublicBukkitValues:
+          oraxen:if-uuid: '[B;-30B,-71B,109B,-107B,-67B,-91B,68B,-24B,-93B,-1B,-70B,97B,-29B,-111B,125B,123B]'
+  ingredients:
+    B:
+      minecraft_type: IRON_HELMET
+    D:
+      minecraft_type: IRON_LEGGINGS
+    C:
+      minecraft_type: IRON_BOOTS
+    A:
+      minecraft_type: IRON_CHESTPLATE
+  shape:
+  - ___
+  - AB_
+  - CD_
+diamond_scepter:
+  result:
+    minecraft_item:
+      ==: org.bukkit.inventory.ItemStack
+      v: 2865
+      type: DIAMOND_SWORD
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: '{"extra":[{"text":"diamond scepter"}],"text":""}'
+        custom-model-data: 1
+        PublicBukkitValues:
+          oraxen:if-uuid: '[B;47B,-111B,-111B,40B,-14B,-62B,77B,88B,-103B,-43B,-16B,25B,-59B,70B,-101B,-51B]'
+  ingredients:
+    B:
+      minecraft_type: STICK
+    A:
+      minecraft_type: DIAMOND
+  shape:
+  - __A
+  - _B_
+  - B__
+gold_set:
+  result:
+    minecraft_item:
+      ==: org.bukkit.inventory.ItemStack
+      v: 2865
+      type: NETHERITE_CHESTPLATE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: '{"extra":[{"text":"gold armor set"}],"text":""}'
+        custom-model-data: 1
+        PublicBukkitValues:
+          oraxen:if-uuid: '[B;96B,122B,9B,81B,-58B,43B,69B,-23B,-112B,59B,19B,-19B,25B,-76B,-127B,-17B]'
+  ingredients:
+    A:
+      minecraft_type: GOLDEN_CHESTPLATE
+    B:
+      minecraft_type: GOLDEN_HELMET
+    C:
+      minecraft_type: GOLDEN_BOOTS
+    D:
+      minecraft_type: GOLDEN_LEGGINGS
+  shape:
+  - ___
+  - AB_
+  - CD_
+diamond_set:
+  result:
+    minecraft_item:
+      ==: org.bukkit.inventory.ItemStack
+      v: 2865
+      type: NETHERITE_HELMET
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: '{"extra":[{"text":"diamond armor set"}],"text":""}'
+        custom-model-data: 1
+        PublicBukkitValues:
+          oraxen:if-uuid: '[B;-112B,-24B,-115B,-34B,-20B,93B,75B,26B,-108B,-8B,-106B,-121B,-124B,60B,27B,-37B]'
+  ingredients:
+    B:
+      minecraft_type: DIAMOND_HELMET
+    A:
+      minecraft_type: DIAMOND_CHESTPLATE
+    D:
+      minecraft_type: DIAMOND_LEGGINGS
+    C:
+      minecraft_type: DIAMOND_BOOTS
+  shape:
+  - ___
+  - AB_
+  - CD_
